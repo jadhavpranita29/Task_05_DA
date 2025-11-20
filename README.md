@@ -1,4 +1,4 @@
-# Apple Financil Analysis
+# Apple Financial Analysis
 
 # Task Overview
 
